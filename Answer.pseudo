@@ -1,0 +1,7 @@
+/*<?php
+        function GenerateNameNumber($name){
+         $n = $name.' '.rand(6,15);
+         echo $n;
+        }
+?>*/
+    
